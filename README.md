@@ -12,6 +12,10 @@ It uses **Random forest model** to predict car prices based on necessary feature
 - flask
 - requests==2.24.0
 
+## Project Screenshots
+
+Project is running on local host.
+
 ![ScreenShot](https://raw.github.com/SiddhantReddy/Car_Price_Prediction/master/Screenshots/Screenshot01.png)
 &nbsp;&nbsp;&nbsp;
 ![ScreenShot](https://raw.github.com/SiddhantReddy/Car_Price_Prediction/master/Screenshots/Screenshot02.png)
